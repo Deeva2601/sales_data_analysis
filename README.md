@@ -1,4 +1,4 @@
-# Sales Data Analysis using SQL & Excel
+# Sales-Data-Analysis-SQL-Excel
 
 ## 📌 Overview
 
