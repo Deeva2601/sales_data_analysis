@@ -48,7 +48,12 @@ GROUP BY ship_mode;
 * dataset.xlsx
 * queries.sql
 * dashboard.png
+  
+## 📊 Dashboard Preview
 
+![Dashboard](dashboard.png)
+
+## 📎 Conclusion
 ## 🚀 Conclusion
 
 This project demonstrates how SQL and Excel can be used together to analyze and visualize business data effectively.
